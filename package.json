@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/facilis-saepe-dolor-deleniti",
-  "version": "4.4.44",
+  "version": "4.4.45",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -816,5 +816,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/facilis-saepe-dolor-deleniti/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
